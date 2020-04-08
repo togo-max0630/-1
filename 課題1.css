@@ -11,7 +11,7 @@
 }
 
 main{
-	width: 960px
+	width: 960px;
 	margin: 50px auto;
 }
 
@@ -62,20 +62,17 @@ main{
 	width: 100%;
 }
 .step-box{
+	width: 90%;
 	float: none;
-	width: 100%;
-	padding-left: 5%;
-	padding-right: 5%;
+	margin: 0 auto;
+	margin-bottom: 20px;
 }
-.step-img1{
-	width: 90%;
+.step-box:last-child{
+	margin: 0 auto;
 }
-.step-img2{
-	width: 90%;
+
 }
-.step-img3{
-	width: 90%;
-}
+
 
 
 
